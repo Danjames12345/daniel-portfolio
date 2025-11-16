@@ -35,7 +35,7 @@ const Contact = () => {
                 </div>
                  </div>
                 <div className='flex-1 w-full'>
-                    <form className='space-y-4'>
+                    <form className='space-y-3.5'>
                       <div>
                         <label htmlFor="Name">Your Name</label>
                         <input type="name" className='w-full p-2 rounded bg-gray-800 border border-gray-600 focus:outline-none focus:border-green-400' placeholder='Enter Your Name' />
